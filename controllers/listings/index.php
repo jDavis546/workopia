@@ -1,5 +1,5 @@
 <?php
 #require ('../helpers.php');
-loadView("home");
+loadView("listings/index");
 
 ?>
